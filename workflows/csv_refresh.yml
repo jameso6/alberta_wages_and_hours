@@ -1,0 +1,23 @@
+name: Refresh CSV
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+
+jobs:
+  refresh-csv:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'  # Choose your Python version
+
+    - name: Check out repository
+      uses: actions/checkout@v2
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt  # If you have any dependencies
+
+    - name: Run Python script
+      run: python refresh_csv.py  # Replace with your script name
