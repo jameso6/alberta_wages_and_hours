@@ -11,7 +11,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.x'  # Choose your Python version
+        python-version: '3.2'  # Choose your Python version
 
     - name: Check out repository
       uses: actions/checkout@v2
@@ -20,4 +20,4 @@ jobs:
       run: pip install -r requirements.txt  # If you have any dependencies
 
     - name: Run Python script
-      run: python refresh_csv.py  # Replace with your script name
+      run: python Weekly_wages_and_hours_script.py  # Replace with your script name
