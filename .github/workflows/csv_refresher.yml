@@ -2,22 +2,46 @@ name: Refresh CSV
 
 on:
   schedule:
-    - cron: '0 0 1 1 *'  # Runs at midnight on January 1st every year
+    - cron: '*/10 * * * *' # Runs every day at midnight UTC
+  push:
+    branches:
+      - main
+  workflow_dispatch:
 
 jobs:
-  refresh-csv:
+  update-csv:
     runs-on: ubuntu-latest
+
     steps:
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.2'  # Choose your Python version
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-    - name: Check out repository
-      uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
 
-    - name: Install dependencies
-      run: pip install -r requirements.txt  # If you have any dependencies
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install numpy pandas stats_can
 
-    - name: Run Python script
-      run: python Weekly_wages_and_hours_script.py  # Replace with your script name
+      - name: Run update script
+        run: python Weekly_wages_and_hours_script.py
+
+      - name: Check if there are changes to commit
+        id: check_changes
+        run: |
+          git diff-index --quiet HEAD || echo "Changes detected"
+        continue-on-error: true
+
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.return-value == 'Changes detected'
+        run: |
+          git config --global user.name 'Ed-Chris'
+          git config --global user.email 'yedukrishnan215@gmail.com'
+          git add .
+          git commit -m "Update CSV files"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
