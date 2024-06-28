@@ -1,4 +1,0 @@
-numpy
-pandas
-stats_can
-re
