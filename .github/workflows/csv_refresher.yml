@@ -2,7 +2,7 @@ name: Refresh CSV
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # Runs every hour
+    - cron: '0 0 1 1 *'  # Runs at midnight on January 1st every year
 
 jobs:
   refresh-csv:
