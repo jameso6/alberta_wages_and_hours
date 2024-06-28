@@ -38,8 +38,8 @@ jobs:
       - name: Commit and push changes
         if: steps.check_changes.outputs.return-value == 'Changes detected'
         run: |
-          git config --global user.name 'Ed-Chris'
-          git config --global user.email 'yedukrishnan215@gmail.com'
+          git config --global user.name 'jameso6'
+          git config --global user.email 'j_christianjo@hotmail.com'
           git add .
           git commit -m "Update CSV files"
           git push
