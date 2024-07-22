@@ -92,7 +92,7 @@ insert_wages()
 
 # Sectors into csvs
 
-data.to_csv('Complete_Weekly_wages_and_hours_by_sector.csv')
+data.to_csv('Complete_Weekly_wages_and_hours_by_sector.csv', index = False)
 
 
 
