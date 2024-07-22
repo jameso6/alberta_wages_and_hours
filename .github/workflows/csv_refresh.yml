@@ -1,15 +1,12 @@
-name: Refresh CSV
+name: Run Python Script
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs every day at midnight UTC
-  push:
-    branches:
-      - main
-  workflow_dispatch:
+    - cron: '0 * * * *'  # Adjust the cron schedule as needed
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
-  update-csv:
+  run_script:
     runs-on: ubuntu-latest
 
     steps:
@@ -19,29 +16,22 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: 3.8
+          python-version: '3.x'
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install numpy pandas stats_can
+          pip install pandas requests
 
-      - name: Run update script
-        run: python Weekly_wages_and_hours_script.py
-
-      - name: Check if there are changes to commit
-        id: check_changes
-        run: |
-          git diff-index --quiet HEAD || echo "Changes detected"
-        continue-on-error: true
+      - name: Run script
+        run: python update_gdp_data.py
 
       - name: Commit and push changes
-        if: steps.check_changes.outputs.return-value == 'Changes detected'
         run: |
-          git config --global user.name 'jameso6'
-          git config --global user.email 'j_christianjo@hotmail.com'
-          git add Complete_Weekly_wages_and_hours_by_sector.csv
-          git commit -m "Update CSV files"
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .
+          git commit -m "Update GDP data" || echo "No changes to commit"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
