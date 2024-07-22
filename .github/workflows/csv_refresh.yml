@@ -40,7 +40,7 @@ jobs:
         run: |
           git config --global user.name 'jameso6'
           git config --global user.email 'j_christianjo@hotmail.com'
-          git add .
+          git add Complete_Weekly_wages_and_hours_by_sector.csv
           git commit -m "Update CSV files"
           git push
         env:
