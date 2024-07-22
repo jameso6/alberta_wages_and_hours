@@ -2,7 +2,7 @@ name: Refresh CSV
 
 on:
   schedule:
-    - cron: '*/10 * * * *' # Runs every day at midnight UTC
+    - cron: '*0 0 * * *' # Runs every day at midnight UTC
   push:
     branches:
       - main
