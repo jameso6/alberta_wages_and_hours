@@ -24,7 +24,7 @@ jobs:
           pip install numpy pandas stats_can
 
       - name: Run script
-        run: python Weekly_wages_and_hours_script.py
+        run: python Wages_and_hours_script.py
 
       - name: Commit and push changes
         run: |
