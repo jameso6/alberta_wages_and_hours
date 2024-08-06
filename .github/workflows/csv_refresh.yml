@@ -21,7 +21,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install numpy pandas stats_can
+          pip install numpy pandas stats_can bs4
 
       - name: Run script
         run: python Wages_and_hours_script.py
