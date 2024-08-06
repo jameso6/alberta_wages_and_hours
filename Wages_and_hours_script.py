@@ -126,50 +126,50 @@ def insert_wages():
 insert_wages()
 
 # print(df)
-# df.to_csv('Complete_Wages_and_Hours_by_sector.csv', index=False, encoding='utf-8')
-# living_wages_df.to_csv('Living_Wages_Map.csv', index=False, encoding='utf-8')
+df.to_csv('Complete_Wages_and_Hours_by_sector.csv', index=False, encoding='utf-8')
+living_wages_df.to_csv('Living_Wages_Map.csv', index=False, encoding='utf-8')
 
 # Download CSV into a folder
-# Setting filepath
-# Get the current working directory (where your script is located)
-current_dir = os.path.dirname(os.path.abspath(__file__))
+# # Setting filepath
+# # Get the current working directory (where your script is located)
+# current_dir = os.path.dirname(os.path.abspath(__file__))
 
-folder_name = 'Datasets'
+# folder_name = 'Datasets'
 
-# Create the full path of the output folder
-sub_folder = os.path.join(current_dir, folder_name)
+# # Create the full path of the output folder
+# sub_folder = os.path.join(current_dir, folder_name)
 
-# Create a new directory if it doesn't exist
-if not os.path.exists(sub_folder):
-    os.makedirs(sub_folder)
+# # Create a new directory if it doesn't exist
+# if not os.path.exists(sub_folder):
+#     os.makedirs(sub_folder)
 
-# Define the filename for CSV file
-csv_filename = 'Complete_Weekly_wages_and_hours_by_sector.csv'
+# # Define the filename for CSV file
+# csv_filename = 'Complete_Weekly_wages_and_hours_by_sector.csv'
 
-# Combine the current directory path and the filename
-# csv_path = os.path.join(current_dir, csv_filename)
-csv_path = os.path.join(sub_folder, csv_filename)
+# # Combine the current directory path and the filename
+# # csv_path = os.path.join(current_dir, csv_filename)
+# csv_path = os.path.join(sub_folder, csv_filename)
 
-# Save the DataFrame to CSV
-df.to_csv(csv_path, index=False, encoding='utf-8')
+# # Save the DataFrame to CSV
+# df.to_csv(csv_path, index=False, encoding='utf-8')
 
-# Redo for living wages map
-csv_filename = 'Living_Wages_Map.csv'
+# # Redo for living wages map
+# csv_filename = 'Living_Wages_Map.csv'
 
-# Combine the current directory path and the filename
-# csv_path = os.path.join(current_dir, csv_filename)
-csv_path = os.path.join(sub_folder, csv_filename)
+# # Combine the current directory path and the filename
+# # csv_path = os.path.join(current_dir, csv_filename)
+# csv_path = os.path.join(sub_folder, csv_filename)
 
-living_wages_df.to_csv(csv_path,  index=False, encoding='utf-8')
+# living_wages_df.to_csv(csv_path,  index=False, encoding='utf-8')
 
-# print(f"CSV file saved to: {csv_path}")
+# # print(f"CSV file saved to: {csv_path}")
 
-# Download a separate CSV for each sector
-# Uncomment below if a CSV for each sector is needed
-# for NAIC in df['North American Industry Classification System (NAICS)'].unique():
-#     csv_filename = NAIC+'.csv'
-#     csv_path = os.path.join(sub_folder, csv_filename)
-#     df[df['North American Industry Classification System (NAICS)'] == NAIC].reset_index().to_csv(csv_path, index=False, encoding='utf-8')
+# # Download a separate CSV for each sector
+# # Uncomment below if a CSV for each sector is needed
+# # for NAIC in df['North American Industry Classification System (NAICS)'].unique():
+# #     csv_filename = NAIC+'.csv'
+# #     csv_path = os.path.join(sub_folder, csv_filename)
+# #     df[df['North American Industry Classification System (NAICS)'] == NAIC].reset_index().to_csv(csv_path, index=False, encoding='utf-8')
 
 
 ###### Job Occupations script
@@ -743,30 +743,30 @@ def clean_sector_names():
 
 clean_sector_names()
 
-# df.to_csv('Complete_Occupations.csv', index=False, encoding='utf-8')
+df.to_csv('Complete_Occupations.csv', index=False, encoding='utf-8')
 
 # Download CSV into a folder
-# Set filepath
-# Get the current working directory (where your script is located)
-current_dir = os.path.dirname(os.path.abspath(__file__))
+# # Set filepath
+# # Get the current working directory (where your script is located)
+# current_dir = os.path.dirname(os.path.abspath(__file__))
 
-folder_name = 'Datasets'
+# folder_name = 'Datasets'
 
-# Create the full path of the output folder
-sub_folder = os.path.join(current_dir, folder_name)
+# # Create the full path of the output folder
+# sub_folder = os.path.join(current_dir, folder_name)
 
-# Create a new directory if it doesn't exist
-if not os.path.exists(sub_folder):
-    os.makedirs(sub_folder)
+# # Create a new directory if it doesn't exist
+# if not os.path.exists(sub_folder):
+#     os.makedirs(sub_folder)
 
-# Define the filename for your CSV file
-csv_filename = 'Complete_Occupations.csv'
+# # Define the filename for your CSV file
+# csv_filename = 'Complete_Occupations.csv'
 
-# Combine the current directory path and the filename
-# csv_path = os.path.join(current_dir, csv_filename)
-csv_path = os.path.join(sub_folder, csv_filename)
+# # Combine the current directory path and the filename
+# # csv_path = os.path.join(current_dir, csv_filename)
+# csv_path = os.path.join(sub_folder, csv_filename)
 
-# Save the DataFrame to CSV
-df.to_csv(csv_path, index=False, encoding='utf-8')
+# # Save the DataFrame to CSV
+# df.to_csv(csv_path, index=False, encoding='utf-8')
 
-# print(f"CSV file saved to: {csv_path}")
+# # print(f"CSV file saved to: {csv_path}")
