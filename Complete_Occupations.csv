@@ -1,0 +1,1445 @@
+Occupation,Low Wage,Median Wage,High Wage,Source,Occupation Title,NOC,Sector
+"Legislators
+			  					   
+(00010)",34800.0,93000.0,192000.0,#note_0_0,Legislators,00010,Public administration 
+"Senior government managers and officials
+			  					   
+(00011)",39.23,72.12,100.0,#note_1_0,Senior government managers and officials,00011,Public administration 
+"Senior managers - financial, communications and other business services
+			  					   
+(00012)",39.9,87.41,132.21,#note_2_0,"Senior managers - financial, communications and other business services",00012,"Finance, insurance, real estate, rental and leasing "
+"Senior managers - trade, broadcasting and other services
+			  					   
+(00014)",24.5,41.03,76.92,#note_3_0,"Senior managers - trade, broadcasting and other services",00014,Services-producing sector
+"Senior managers - construction, transportation, production and utilities
+			  					   
+(00015)",25.0,56.41,115.38,#note_4_0,"Senior managers - construction, transportation, production and utilities",00015,Construction 
+"Financial managers
+			  					   
+(10010)",36.92,60.1,96.15,#note_0_1,Financial managers,10010,"Finance, insurance, real estate, rental and leasing "
+"Human resources managers
+			  					   
+(10011)",36.92,55.61,96.15,#note_1_1,Human resources managers,10011,"Professional, scientific and technical services "
+"Purchasing managers
+			  					   
+(10012)",28.85,58.16,91.63,#note_2_1,Purchasing managers,10012,"Professional, scientific and technical services "
+"Other administrative services managers
+			  					   
+(10019)",18.76,42.34,96.53,#note_3_1,Other administrative services managers,10019,Public administration 
+"Insurance, real estate and financial brokerage managers
+			  					   
+(10020)",32.97,55.41,67.69,#note_4_1,"Insurance, real estate and financial brokerage managers",10020,"Finance, insurance, real estate, rental and leasing "
+"Banking, credit and other investment managers
+			  					   
+(10021)",34.87,49.69,76.92,#note_5_1,"Banking, credit and other investment managers",10021,"Finance, insurance, real estate, rental and leasing "
+"Advertising, marketing and public relations managers
+			  					   
+(10022)",36.06,48.08,76.44,#note_6_1,"Advertising, marketing and public relations managers",10022,"Professional, scientific and technical services "
+"Other business services managers
+			  					   
+(10029)",39.42,55.0,86.54,#note_7_1,Other business services managers,10029,"Business, building and other support services "
+"Telecommunication carriers managers
+			  					   
+(10030)",34.62,47.69,70.46,#note_8_1,Telecommunication carriers managers,10030,"Professional, scientific and technical services "
+"Financial auditors and accountants
+			  					   
+(11100)",24.04,41.52,72.12,#note_9_1,Financial auditors and accountants,11100,"Finance, insurance, real estate, rental and leasing "
+"Financial and investment analysts
+			  					   
+(11101)",24.7,46.96,78.46,#note_10_1,Financial and investment analysts,11101,"Finance, insurance, real estate, rental and leasing "
+"Financial advisors
+			  					   
+(11102)",26.0,35.1,57.95,#note_11_1,Financial advisors,11102,"Finance, insurance, real estate, rental and leasing "
+"Securities agents, investment dealers and brokers
+			  					   
+(11103)",25.0,57.69,91.35,#note_12_1,"Securities agents, investment dealers and brokers",11103,"Finance, insurance, real estate, rental and leasing "
+"Other financial officers
+			  					   
+(11109)",25.64,39.49,72.12,#note_13_1,Other financial officers,11109,"Finance, insurance, real estate, rental and leasing "
+"Human resources professionals
+			  					   
+(11200)",24.0,38.0,63.0,#note_14_1,Human resources professionals,11200,"Professional, scientific and technical services "
+"Professional occupations in business management consulting
+			  					   
+(11201)",29.55,45.33,65.0,#note_15_1,Professional occupations in business management consulting,11201,"Professional, scientific and technical services "
+"Professional occupations in advertising, marketing and public relations
+			  					   
+(11202)",20.0,32.0,50.33,#note_16_1,"Professional occupations in advertising, marketing and public relations",11202,"Professional, scientific and technical services "
+"Supervisors, general office and administrative support workers
+			  					   
+(12010)",19.75,30.0,44.0,#note_17_1,"Supervisors, general office and administrative support workers",12010,"Business, building and other support services "
+"Supervisors, finance and insurance office workers
+			  					   
+(12011)",19.0,32.43,48.47,#note_18_1,"Supervisors, finance and insurance office workers",12011,"Finance, insurance, real estate, rental and leasing "
+"Supervisors, library, correspondence and related information workers
+			  					   
+(12012)",,25.58,,#note_19_1,"Supervisors, library, correspondence and related information workers",12012,Public administration 
+"Supervisors, supply chain, tracking and scheduling co-ordination occupations
+			  					   
+(12013)",18.5,28.85,51.0,#note_20_1,"Supervisors, supply chain, tracking and scheduling co-ordination occupations",12013,Transportation and warehousing 
+"Executive assistants
+			  					   
+(12100)",20.0,32.05,49.32,#note_21_1,Executive assistants,12100,"Business, building and other support services "
+"Human resources and recruitment officers
+			  					   
+(12101)",21.87,30.77,67.58,#note_22_1,Human resources and recruitment officers,12101,"Professional, scientific and technical services "
+"Procurement and purchasing agents and officers
+			  					   
+(12102)",25.35,39.71,63.1,#note_23_1,Procurement and purchasing agents and officers,12102,"Professional, scientific and technical services "
+"Conference and event planners
+			  					   
+(12103)",19.0,27.0,49.45,#note_24_1,Conference and event planners,12103,"Professional, scientific and technical services "
+"Employment insurance and revenue officers
+			  					   
+(12104)",20.19,30.68,45.16,#note_25_1,Employment insurance and revenue officers,12104,Public administration 
+"Court reporters, medical transcriptionists and related occupations
+			  					   
+(12110)",16.0,31.0,33.5,#note_26_1,"Court reporters, medical transcriptionists and related occupations",12110,Other services (except public administration) 
+"Health information management occupations
+			  					   
+(12111)",27.26,37.51,48.05,#note_27_1,Health information management occupations,12111,Health care and social assistance 
+"Records management technicians
+			  					   
+(12112)",20.0,32.95,47.14,#note_28_1,Records management technicians,12112,Public administration 
+"Statistical officers and related research support occupations
+			  					   
+(12113)",18.2,36.79,59.55,#note_29_1,Statistical officers and related research support occupations,12113,Public administration 
+"Accounting technicians and bookkeepers
+			  					   
+(12200)",19.23,28.0,46.63,#note_30_1,Accounting technicians and bookkeepers,12200,"Finance, insurance, real estate, rental and leasing "
+"Insurance adjusters and claims examiners
+			  					   
+(12201)",23.08,36.54,55.29,#note_31_1,Insurance adjusters and claims examiners,12201,"Finance, insurance, real estate, rental and leasing "
+"Insurance underwriters
+			  					   
+(12202)",23.99,32.0,38.69,#note_32_1,Insurance underwriters,12202,"Finance, insurance, real estate, rental and leasing "
+"Assessors, business valuators and appraisers
+			  					   
+(12203)",15.0,37.8,67.05,#note_33_1,"Assessors, business valuators and appraisers",12203,"Professional, scientific and technical services "
+"Administrative officers
+			  					   
+(13100)",20.77,28.0,43.59,#note_34_1,Administrative officers,13100,Public administration 
+"Property administrators
+			  					   
+(13101)",20.0,30.19,57.69,#note_35_1,Property administrators,13101,Public administration 
+"Payroll administrators
+			  					   
+(13102)",19.0,30.0,42.86,#note_36_1,Payroll administrators,13102,"Professional, scientific and technical services "
+"Administrative assistants
+			  					   
+(13110)",18.0,25.48,35.0,#note_37_1,Administrative assistants,13110,"Business, building and other support services "
+"Legal administrative assistants
+			  					   
+(13111)",18.75,30.0,43.85,#note_38_1,Legal administrative assistants,13111,"Professional, scientific and technical services "
+"Medical administrative assistants
+			  					   
+(13112)",20.19,28.0,33.5,#note_39_1,Medical administrative assistants,13112,Health care and social assistance 
+"Customs, ship and other brokers
+			  					   
+(13200)",,27.47,,#note_40_1,"Customs, ship and other brokers",13200,"Finance, insurance, real estate, rental and leasing "
+"Production and transportation logistics coordinators
+			  					   
+(13201)",21.5,27.75,48.75,#note_41_1,Production and transportation logistics coordinators,13201,Transportation and warehousing 
+"General office support workers
+			  					   
+(14100)",15.85,25.0,36.65,#note_42_1,General office support workers,14100,"Business, building and other support services "
+"Receptionists
+			  					   
+(14101)",16.0,20.0,30.0,#note_43_1,Receptionists,14101,"Business, building and other support services "
+"Personnel clerks
+			  					   
+(14102)",24.0,30.0,36.67,#note_44_1,Personnel clerks,14102,"Professional, scientific and technical services "
+"Court clerks and related court services occupations
+			  					   
+(14103)",22.63,31.81,39.76,#note_45_1,Court clerks and related court services occupations,14103,Public administration 
+"Survey interviewers and statistical clerks
+			  					   
+(14110)",17.83,18.82,30.79,#note_46_1,Survey interviewers and statistical clerks,14110,Public administration 
+"Data entry clerks
+			  					   
+(14111)",15.0,23.08,32.5,#note_47_1,Data entry clerks,14111,"Professional, scientific and technical services "
+"Accounting and related clerks
+			  					   
+(14200)",17.31,24.6,41.35,#note_48_1,Accounting and related clerks,14200,"Finance, insurance, real estate, rental and leasing "
+"Banking, insurance and other financial clerks
+			  					   
+(14201)",18.27,22.5,30.0,#note_49_1,"Banking, insurance and other financial clerks",14201,"Finance, insurance, real estate, rental and leasing "
+"Collection clerks
+			  					   
+(14202)",20.7,28.26,40.3,#note_50_1,Collection clerks,14202,"Finance, insurance, real estate, rental and leasing "
+"Library assistants and clerks
+			  					   
+(14300)",15.61,25.48,34.56,#note_51_1,Library assistants and clerks,14300,Public administration 
+"Correspondence, publication and regulatory clerks
+			  					   
+(14301)",17.0,23.0,32.31,#note_52_1,"Correspondence, publication and regulatory clerks",14301,Public administration 
+"Shippers and receivers
+			  					   
+(14400)",16.0,20.0,28.7,#note_53_1,Shippers and receivers,14400,Transportation and warehousing 
+"Storekeepers and partspersons
+			  					   
+(14401)",21.7,28.0,39.85,#note_54_1,Storekeepers and partspersons,14401,Wholesale and retail trade 
+"Production logistics workers
+			  					   
+(14402)",17.53,33.57,79.27,#note_55_1,Production logistics workers,14402,Manufacturing 
+"Purchasing and inventory control workers
+			  					   
+(14403)",18.0,24.0,44.02,#note_56_1,Purchasing and inventory control workers,14403,"Professional, scientific and technical services "
+"Dispatchers
+			  					   
+(14404)",17.0,28.85,46.15,#note_57_1,Dispatchers,14404,Transportation and warehousing 
+"Transportation route and crew schedulers
+			  					   
+(14405)",21.62,35.47,57.43,#note_58_1,Transportation route and crew schedulers,14405,Transportation and warehousing 
+"Engineering managers
+			  					   
+(20010)",45.0,72.12,110.58,#note_0_2,Engineering managers,20010,"Professional, scientific and technical services "
+"Architecture and science managers
+			  					   
+(20011)",28.67,51.59,97.71,#note_1_2,Architecture and science managers,20011,"Professional, scientific and technical services "
+"Computer and information systems managers
+			  					   
+(20012)",34.86,64.9,96.15,#note_2_2,Computer and information systems managers,20012,"Professional, scientific and technical services "
+"Physicists and astronomers
+			  					   
+(21100)",,56.32,,#note_3_2,Physicists and astronomers,21100,"Professional, scientific and technical services "
+"Chemists
+			  					   
+(21101)",35.0,62.49,86.54,#note_4_2,Chemists,21101,"Professional, scientific and technical services "
+"Geoscientists and oceanographers
+			  					   
+(21102)",28.85,46.15,93.75,#note_5_2,Geoscientists and oceanographers,21102,"Professional, scientific and technical services "
+"Meteorologists and climatologists
+			  					   
+(21103)",,55.59,,#note_6_2,Meteorologists and climatologists,21103,"Professional, scientific and technical services "
+"Other professional occupations in physical sciences
+			  					   
+(21109)",33.42,51.79,69.73,#note_7_2,Other professional occupations in physical sciences,21109,"Professional, scientific and technical services "
+"Biologists and related scientists
+			  					   
+(21110)",26.44,43.61,72.12,#note_8_2,Biologists and related scientists,21110,"Professional, scientific and technical services "
+"Forestry professionals
+			  					   
+(21111)",28.76,43.13,64.25,#note_9_2,Forestry professionals,21111,"Forestry, fishing, mining, quarrying, oil and gas "
+"Agricultural representatives, consultants and specialists
+			  					   
+(21112)",27.5,36.06,48.56,#note_10_2,"Agricultural representatives, consultants and specialists",21112,Agriculture 
+"Public and environmental health and safety professionals 
+			  					   
+(21120)",26.0,45.0,68.0,#note_11_2,Public and environmental health and safety professionals,21120,Public administration 
+"Architects
+			  					   
+(21200)",23.08,38.65,57.69,#note_12_2,Architects,21200,"Professional, scientific and technical services "
+"Landscape architects
+			  					   
+(21201)",,38.04,,#note_13_2,Landscape architects,21201,"Business, building and other support services "
+"Urban and land use planners
+			  					   
+(21202)",28.85,50.0,60.0,#note_14_2,Urban and land use planners,21202,Public administration 
+"Land surveyors
+			  					   
+(21203)",33.5,40.62,51.0,#note_15_2,Land surveyors,21203,"Professional, scientific and technical services "
+"Mathematicians, statisticians and actuaries
+			  					   
+(21210)",23.23,44.39,74.14,#note_16_2,"Mathematicians, statisticians and actuaries",21210,"Professional, scientific and technical services "
+"Data scientists 
+			  					   
+(21211)",28.57,43.14,78.61,#note_17_2,Data scientists,21211,"Professional, scientific and technical services "
+"Cybersecurity specialists 
+			  					   
+(21220)",31.94,49.57,102.01,#note_18_2,Cybersecurity specialists,21220,"Professional, scientific and technical services "
+"Business systems specialists
+			  					   
+(21221)",29.53,47.12,57.96,#note_19_2,Business systems specialists,21221,"Professional, scientific and technical services "
+"Information systems specialists
+			  					   
+(21222)",28.72,48.08,67.31,#note_20_2,Information systems specialists,21222,"Professional, scientific and technical services "
+"Database analysts and data administrators
+			  					   
+(21223)",23.08,42.0,58.67,#note_21_2,Database analysts and data administrators,21223,"Professional, scientific and technical services "
+"Computer systems developers and programmers 
+			  					   
+(21230)",25.08,45.42,68.14,#note_22_2,Computer systems developers and programmers,21230,"Professional, scientific and technical services "
+"Software engineers and designers
+			  					   
+(21231)",29.74,52.88,76.92,#note_23_2,Software engineers and designers,21231,"Professional, scientific and technical services "
+"Software developers and programmers 
+			  					   
+(21232)",26.44,40.87,64.33,#note_24_2,Software developers and programmers,21232,"Professional, scientific and technical services "
+"Web designers
+			  					   
+(21233)",15.0,28.32,48.47,#note_25_2,Web designers,21233,"Information, culture and recreation "
+"Web developers and programmers 
+			  					   
+(21234)",21.63,36.07,86.54,#note_26_2,Web developers and programmers,21234,"Professional, scientific and technical services "
+"Civil engineers
+			  					   
+(21300)",30.0,50.48,78.8,#note_27_2,Civil engineers,21300,Construction 
+"Mechanical engineers
+			  					   
+(21301)",29.81,48.08,72.0,#note_28_2,Mechanical engineers,21301,Manufacturing 
+"Electrical and electronics engineers
+			  					   
+(21310)",33.33,48.08,73.0,#note_29_2,Electrical and electronics engineers,21310,Manufacturing 
+"Computer engineers (except software engineers and designers)
+			  					   
+(21311)",16.83,41.35,72.12,#note_30_2,Computer engineers (except software engineers and designers),21311,"Professional, scientific and technical services "
+"Chemical engineers
+			  					   
+(21320)",37.5,62.5,86.55,#note_31_2,Chemical engineers,21320,"Professional, scientific and technical services "
+"Industrial and manufacturing engineers
+			  					   
+(21321)",22.63,55.25,85.1,#note_32_2,Industrial and manufacturing engineers,21321,Manufacturing 
+"Metallurgical and materials engineers
+			  					   
+(21322)",34.95,58.4,104.85,#note_33_2,Metallurgical and materials engineers,21322,Manufacturing 
+"Mining engineers
+			  					   
+(21330)",40.87,48.08,100.48,#note_34_2,Mining engineers,21330,"Forestry, fishing, mining, quarrying, oil and gas "
+"Geological engineers 
+			  					   
+(21331)",31.32,57.03,123.4,#note_35_2,Geological engineers,21331,"Professional, scientific and technical services "
+"Petroleum engineers
+			  					   
+(21332)",30.36,62.5,95.0,#note_36_2,Petroleum engineers,21332,"Forestry, fishing, mining, quarrying, oil and gas "
+"Other professional engineers
+			  					   
+(21399)",32.5,48.08,75.0,#note_37_2,Other professional engineers,21399,"Professional, scientific and technical services "
+"Chemical technologists and technicians
+			  					   
+(22100)",20.0,29.33,42.56,#note_38_2,Chemical technologists and technicians,22100,Manufacturing 
+"Geological and mineral technologists and technicians
+			  					   
+(22101)",25.0,31.45,67.0,#note_39_2,Geological and mineral technologists and technicians,22101,"Professional, scientific and technical services "
+"Biological technologists and technicians
+			  					   
+(22110)",15.46,23.0,35.0,#note_40_2,Biological technologists and technicians,22110,"Professional, scientific and technical services "
+"Agricultural and fish products inspectors
+			  					   
+(22111)",22.96,36.17,49.94,#note_41_2,Agricultural and fish products inspectors,22111,Agriculture 
+"Forestry technologists and technicians
+			  					   
+(22112)",28.73,40.85,57.47,#note_42_2,Forestry technologists and technicians,22112,"Forestry, fishing, mining, quarrying, oil and gas "
+"Conservation and fishery officers
+			  					   
+(22113)",31.8,41.42,49.31,#note_43_2,Conservation and fishery officers,22113,Agriculture 
+"Landscape and horticulture technicians and specialists
+			  					   
+(22114)",17.0,21.0,28.0,#note_44_2,Landscape and horticulture technicians and specialists,22114,"Business, building and other support services "
+"Architectural technologists and technicians
+			  					   
+(22210)",21.6,30.09,40.95,#note_45_2,Architectural technologists and technicians,22210,"Professional, scientific and technical services "
+"Industrial designers
+			  					   
+(22211)",15.0,36.84,54.34,#note_46_2,Industrial designers,22211,Manufacturing 
+"Drafting technologists and technicians
+			  					   
+(22212)",25.0,31.0,44.0,#note_47_2,Drafting technologists and technicians,22212,"Professional, scientific and technical services "
+"Land survey technologists and technicians
+			  					   
+(22213)",21.0,35.0,46.7,#note_48_2,Land survey technologists and technicians,22213,"Professional, scientific and technical services "
+"Technical occupations in geomatics and meteorology
+			  					   
+(22214)",20.0,43.01,46.15,#note_49_2,Technical occupations in geomatics and meteorology,22214,"Professional, scientific and technical services "
+"Computer network and web technicians
+			  					   
+(22220)",24.5,36.06,50.26,#note_50_2,Computer network and web technicians,22220,"Professional, scientific and technical services "
+"User support technicians
+			  					   
+(22221)",18.5,28.85,44.47,#note_51_2,User support technicians,22221,"Professional, scientific and technical services "
+"Information systems testing technicians
+			  					   
+(22222)",15.0,37.5,38.97,#note_52_2,Information systems testing technicians,22222,"Professional, scientific and technical services "
+"Non-destructive testers and inspectors
+			  					   
+(22230)",20.91,35.8,50.57,#note_53_2,Non-destructive testers and inspectors,22230,Manufacturing 
+"Engineering inspectors and regulatory officers
+			  					   
+(22231)",41.64,48.0,74.04,#note_54_2,Engineering inspectors and regulatory officers,22231,"Professional, scientific and technical services "
+"Occupational health and safety specialists
+			  					   
+(22232)",20.0,40.0,60.33,#note_55_2,Occupational health and safety specialists,22232,Public administration 
+"Construction inspectors
+			  					   
+(22233)",24.0,39.9,58.78,#note_56_2,Construction inspectors,22233,Construction 
+"Civil engineering technologists and technicians
+			  					   
+(22300)",19.78,28.0,52.0,#note_57_2,Civil engineering technologists and technicians,22300,"Professional, scientific and technical services "
+"Mechanical engineering technologists and technicians
+			  					   
+(22301)",29.23,40.0,52.0,#note_58_2,Mechanical engineering technologists and technicians,22301,Manufacturing 
+"Industrial engineering and manufacturing technologists and technicians
+			  					   
+(22302)",24.75,39.0,58.26,#note_59_2,Industrial engineering and manufacturing technologists and technicians,22302,Manufacturing 
+"Construction estimators
+			  					   
+(22303)",27.88,37.5,60.78,#note_60_2,Construction estimators,22303,Construction 
+"Electrical and electronics engineering technologists and technicians
+			  					   
+(22310)",25.0,37.34,66.67,#note_61_2,Electrical and electronics engineering technologists and technicians,22310,"Professional, scientific and technical services "
+"Electronic service technicians (household and business equipment)
+			  					   
+(22311)",16.0,25.0,40.0,#note_62_2,Electronic service technicians (household and business equipment),22311,Services-producing sector
+"Industrial instrument technicians and mechanics
+			  					   
+(22312)",26.37,42.0,60.1,#note_63_2,Industrial instrument technicians and mechanics,22312,Manufacturing 
+"Aircraft instrument, electrical and avionics mechanics, technicians and inspectors
+			  					   
+(22313)",21.18,36.02,51.21,#note_64_2,"Aircraft instrument, electrical and avionics mechanics, technicians and inspectors",22313,Manufacturing 
+"Managers in health care
+			  					   
+(30010)",32.69,52.88,67.55,#note_0_3,Managers in health care,30010,Health care and social assistance 
+"Specialists in clinical and laboratory medicine
+			  					   
+(31100)",115149.0,242048.0,575189.0,#note_1_3,Specialists in clinical and laboratory medicine,31100,Health care and social assistance 
+"Specialists in surgery 
+			  					   
+(31101)",126161.0,405218.0,878449.0,#note_2_3,Specialists in surgery,31101,Health care and social assistance 
+"General practitioners and family physicians
+			  					   
+(31102)",96125.0,231407.0,456307.0,#note_3_3,General practitioners and family physicians,31102,Health care and social assistance 
+"Veterinarians
+			  					   
+(31103)",17.31,50.0,75.0,#note_4_3,Veterinarians,31103,Health care and social assistance 
+"Dentists
+			  					   
+(31110)",32867.0,120000.0,270000.0,#note_5_3,Dentists,31110,Health care and social assistance 
+"Optometrists
+			  					   
+(31111)",32867.0,84000.0,178000.0,#note_6_3,Optometrists,31111,Health care and social assistance 
+"Audiologists and speech-language pathologists
+			  					   
+(31112)",41.53,52.58,65.36,#note_7_3,Audiologists and speech-language pathologists,31112,Health care and social assistance 
+"Pharmacists
+			  					   
+(31120)",37.4,50.0,62.99,#note_8_3,Pharmacists,31120,Health care and social assistance 
+"Dietitians and nutritionists
+			  					   
+(31121)",33.38,50.0,52.0,#note_9_3,Dietitians and nutritionists,31121,Health care and social assistance 
+"Psychologists
+			  					   
+(31200)",33.0,48.08,68.68,#note_10_3,Psychologists,31200,Health care and social assistance 
+"Chiropractors
+			  					   
+(31201)",32867.0,53600.0,134000.0,#note_11_3,Chiropractors,31201,Health care and social assistance 
+"Physiotherapists
+			  					   
+(31202)",18.0,43.0,55.29,#note_12_3,Physiotherapists,31202,Health care and social assistance 
+"Occupational therapists
+			  					   
+(31203)",39.0,43.0,52.36,#note_13_3,Occupational therapists,31203,Health care and social assistance 
+"Kinesiologists and other professional occupations in therapy and assessment
+			  					   
+(31204)",19.98,33.0,50.0,#note_14_3,Kinesiologists and other professional occupations in therapy and assessment,31204,Health care and social assistance 
+"Other professional occupations in health diagnosing and treating
+			  					   
+(31209)",32867.0,64000.0,139000.0,#note_15_3,Other professional occupations in health diagnosing and treating,31209,Health care and social assistance 
+"Nursing coordinators and supervisors
+			  					   
+(31300)",24.0,49.0,57.69,#note_16_3,Nursing coordinators and supervisors,31300,Health care and social assistance 
+"Registered nurses and registered psychiatric nurses
+			  					   
+(31301)",30.9,46.62,52.0,#note_17_3,Registered nurses and registered psychiatric nurses,31301,Health care and social assistance 
+"Nurse practitioners 
+			  					   
+(31302)",33.8,54.46,66.62,#note_18_3,Nurse practitioners,31302,Health care and social assistance 
+"Physician assistants, midwives and allied health professionals  
+			  					   
+(31303)",,30.19,,#note_19_3,"Physician assistants, midwives and allied health professionals",31303,Health care and social assistance 
+"Opticians
+			  					   
+(32100)",25.5,28.5,30.68,#note_20_3,Opticians,32100,Health care and social assistance 
+"Licensed practical nurses
+			  					   
+(32101)",25.8,30.0,35.03,#note_21_3,Licensed practical nurses,32101,Health care and social assistance 
+"Paramedical occupations
+			  					   
+(32102)",20.77,33.65,51.0,#note_22_3,Paramedical occupations,32102,Health care and social assistance 
+"Respiratory therapists, clinical perfusionists and cardiopulmonary technologists
+			  					   
+(32103)",37.0,47.3,52.73,#note_23_3,"Respiratory therapists, clinical perfusionists and cardiopulmonary technologists",32103,Health care and social assistance 
+"Animal health technologists and veterinary technicians
+			  					   
+(32104)",17.79,25.0,33.0,#note_24_3,Animal health technologists and veterinary technicians,32104,Health care and social assistance 
+"Other technical occupations in therapy and assessment
+			  					   
+(32109)",17.0,24.06,31.0,#note_25_3,Other technical occupations in therapy and assessment,32109,Health care and social assistance 
+"Denturists
+			  					   
+(32110)",,46800.0,,#note_26_3,Denturists,32110,Health care and social assistance 
+"Dental hygienists and dental therapists
+			  					   
+(32111)",30.0,56.0,65.0,#note_27_3,Dental hygienists and dental therapists,32111,Health care and social assistance 
+"Dental technologists and technicians 
+			  					   
+(32112)",18.0,25.0,37.0,#note_28_3,Dental technologists and technicians,32112,Health care and social assistance 
+"Medical laboratory technologists
+			  					   
+(32120)",25.64,44.0,47.0,#note_29_3,Medical laboratory technologists,32120,Health care and social assistance 
+"Medical radiation technologists
+			  					   
+(32121)",33.5,44.0,48.75,#note_30_3,Medical radiation technologists,32121,Health care and social assistance 
+"Medical sonographers
+			  					   
+(32122)",40.5,51.5,58.58,#note_31_3,Medical sonographers,32122,Health care and social assistance 
+"Cardiology technologists and electrophysiological diagnostic technologists
+			  					   
+(32123)",35.91,36.66,57.46,#note_32_3,Cardiology technologists and electrophysiological diagnostic technologists,32123,Health care and social assistance 
+"Pharmacy technicians
+			  					   
+(32124)",17.88,23.55,38.25,#note_33_3,Pharmacy technicians,32124,Health care and social assistance 
+"Other medical technologists and technicians
+			  					   
+(32129)",17.0,31.0,38.0,#note_34_3,Other medical technologists and technicians,32129,Health care and social assistance 
+"Traditional Chinese medicine practitioners and acupuncturists
+			  					   
+(32200)",,32867.0,,#note_35_3,Traditional Chinese medicine practitioners and acupuncturists,32200,Health care and social assistance 
+"Massage therapists
+			  					   
+(32201)",32867.0,32867.0,63600.0,#note_36_3,Massage therapists,32201,Health care and social assistance 
+"Other practitioners of natural healing 
+			  					   
+(32209)",,32867.0,,#note_37_3,Other practitioners of natural healing,32209,Health care and social assistance 
+"Dental assistants and dental laboratory assistants
+			  					   
+(33100)",24.0,30.0,36.0,#note_38_3,Dental assistants and dental laboratory assistants,33100,Health care and social assistance 
+"Medical laboratory assistants and related technical occupations
+			  					   
+(33101)",22.73,28.41,44.0,#note_39_3,Medical laboratory assistants and related technical occupations,33101,Health care and social assistance 
+"Nurse aides, orderlies and patient service associates
+			  					   
+(33102)",17.75,22.62,26.0,#note_40_3,"Nurse aides, orderlies and patient service associates",33102,Health care and social assistance 
+"Pharmacy technical assistants and pharmacy assistants
+			  					   
+(33103)",17.0,24.0,38.0,#note_41_3,Pharmacy technical assistants and pharmacy assistants,33103,Health care and social assistance 
+"Other assisting occupations in support of health services
+			  					   
+(33109)",17.0,21.54,28.0,#note_42_3,Other assisting occupations in support of health services,33109,Health care and social assistance 
+"Government managers - health and social policy development and program administration
+			  					   
+(40010)",45.57,54.61,69.0,#note_0_4,Government managers - health and social policy development and program administration,40010,Public administration 
+"Government managers - economic analysis, policy development and program administration
+			  					   
+(40011)",48.08,58.8,70.73,#note_1_4,"Government managers - economic analysis, policy development and program administration",40011,Public administration 
+"Government managers - education policy development and program administration
+			  					   
+(40012)",44.15,58.42,70.73,#note_2_4,Government managers - education policy development and program administration,40012,Public administration 
+"Other managers in public administration
+			  					   
+(40019)",43.34,56.0,72.12,#note_3_4,Other managers in public administration,40019,Public administration 
+"Administrators - post-secondary education and vocational training
+			  					   
+(40020)",26.25,53.85,79.67,#note_4_4,Administrators - post-secondary education and vocational training,40020,Educational services 
+"School principals and administrators of elementary and secondary education
+			  					   
+(40021)",40.21,52.5,61.62,#note_5_4,School principals and administrators of elementary and secondary education,40021,Educational services 
+"Managers in social, community and correctional services
+			  					   
+(40030)",26.5,40.87,84.73,#note_6_4,"Managers in social, community and correctional services",40030,Public administration 
+"Commissioned police officers and related occupations in public protection services
+			  					   
+(40040)",,63.04,,#note_7_4,Commissioned police officers and related occupations in public protection services,40040,Public administration 
+"Fire chiefs and senior firefighting officers
+			  					   
+(40041)",44.52,58.76,81.02,#note_8_4,Fire chiefs and senior firefighting officers,40041,Public administration 
+"Commissioned officers of the Canadian Armed Forces
+			  					   
+(40042)",15.0,36.76,53.39,#note_9_4,Commissioned officers of the Canadian Armed Forces,40042,Public administration 
+"Judges
+			  					   
+(41100)",318500.0,318500.0,383700.0,#note_10_4,Judges,41100,Public administration 
+"Lawyers and Quebec notaries
+			  					   
+(41101)",17.76,63.65,152.43,#note_11_4,Lawyers and Quebec notaries,41101,"Professional, scientific and technical services "
+"University professors and lecturers
+			  					   
+(41200)",34.49,54.81,92.31,#note_12_4,University professors and lecturers,41200,Educational services 
+"Post-secondary teaching and research assistants
+			  					   
+(41201)",15.0,24.0,49.45,#note_13_4,Post-secondary teaching and research assistants,41201,Educational services 
+"College and other vocational instructors
+			  					   
+(41210)",23.83,46.61,61.5,#note_14_4,College and other vocational instructors,41210,Educational services 
+"Secondary school teachers
+			  					   
+(41220)",28.85,46.8,56.8,#note_15_4,Secondary school teachers,41220,Educational services 
+"Elementary school and kindergarten teachers
+			  					   
+(41221)",26.0,42.86,52.75,#note_16_4,Elementary school and kindergarten teachers,41221,Educational services 
+"Social workers
+			  					   
+(41300)",22.84,41.68,51.92,#note_17_4,Social workers,41300,Health care and social assistance 
+"Therapists in counselling and related specialized therapies
+
+			  					   
+(41301)",19.23,35.9,55.0,#note_18_4,Therapists in counselling and related specialized therapies,41301,Health care and social assistance 
+"Religious leaders
+			  					   
+(41302)",16.15,26.0,37.61,#note_19_4,Religious leaders,41302,Other services (except public administration) 
+"Police investigators and other investigative occupations
+			  					   
+(41310)",33.65,50.0,60.0,#note_20_4,Police investigators and other investigative occupations,41310,Public administration 
+"Probation and parole officers
+			  					   
+(41311)",30.67,41.1,53.01,#note_21_4,Probation and parole officers,41311,Public administration 
+"Educational counsellors
+			  					   
+(41320)",23.61,38.46,46.65,#note_22_4,Educational counsellors,41320,Educational services 
+"Career development practitioners and career counsellors (except education)
+			  					   
+(41321)",17.79,26.24,29.91,#note_23_4,Career development practitioners and career counsellors (except education),41321,Other services (except public administration) 
+"Natural and applied science policy researchers, consultants and program officers
+			  					   
+(41400)",26.44,43.8,60.0,#note_24_4,"Natural and applied science policy researchers, consultants and program officers",41400,"Professional, scientific and technical services "
+"Economists and economic policy researchers and analysts
+			  					   
+(41401)",24.0,43.59,76.92,#note_25_4,Economists and economic policy researchers and analysts,41401,"Professional, scientific and technical services "
+"Business development officers and market researchers and analysts
+			  					   
+(41402)",21.06,45.26,99.76,#note_26_4,Business development officers and market researchers and analysts,41402,"Professional, scientific and technical services "
+"Social policy researchers, consultants and program officers
+			  					   
+(41403)",23.59,37.98,53.12,#note_27_4,"Social policy researchers, consultants and program officers",41403,"Professional, scientific and technical services "
+"Health policy researchers, consultants and program officers
+			  					   
+(41404)",25.0,39.01,64.1,#note_28_4,"Health policy researchers, consultants and program officers",41404,Health care and social assistance 
+"Education policy researchers, consultants and program officers
+			  					   
+(41405)",23.08,45.71,66.35,#note_29_4,"Education policy researchers, consultants and program officers",41405,Educational services 
+"Recreation, sports and fitness policy researchers, consultants and program officers
+			  					   
+(41406)",15.0,29.0,55.7,#note_30_4,"Recreation, sports and fitness policy researchers, consultants and program officers",41406,"Information, culture and recreation "
+"Program officers unique to government
+			  					   
+(41407)",27.5,42.6,61.97,#note_31_4,Program officers unique to government,41407,Public administration 
+"Other professional occupations in social science
+			  					   
+(41409)",20.9,37.13,53.17,#note_32_4,Other professional occupations in social science,41409,"Professional, scientific and technical services "
+"Police officers (except commissioned)
+			  					   
+(42100)",32.45,46.75,60.1,#note_33_4,Police officers (except commissioned),42100,Public administration 
+"Firefighters
+			  					   
+(42101)",36.06,49.08,56.0,#note_34_4,Firefighters,42101,Public administration 
+"Specialized members of the Canadian Armed Forces
+			  					   
+(42102)",,28.58,,#note_35_4,Specialized members of the Canadian Armed Forces,42102,Public administration 
+"Paralegals and related occupations
+			  					   
+(42200)",23.32,37.18,48.13,#note_36_4,Paralegals and related occupations,42200,"Professional, scientific and technical services "
+"Social and community service workers
+			  					   
+(42201)",16.75,24.0,37.55,#note_37_4,Social and community service workers,42201,Health care and social assistance 
+"Early childhood educators and assistants
+			  					   
+(42202)",15.0,18.5,26.54,#note_38_4,Early childhood educators and assistants,42202,Health care and social assistance 
+"Instructors of persons with disabilities
+			  					   
+(42203)",18.2,23.0,36.98,#note_39_4,Instructors of persons with disabilities,42203,Educational services 
+"Religion workers
+			  					   
+(42204)",15.0,24.99,50.8,#note_40_4,Religion workers,42204,Other services (except public administration) 
+"Elementary and secondary school teacher assistants
+			  					   
+(43100)",16.22,22.0,28.5,#note_41_4,Elementary and secondary school teacher assistants,43100,Educational services 
+"Other instructors
+			  					   
+(43109)",15.0,23.0,38.25,#note_42_4,Other instructors,43109,Educational services 
+"Sheriffs and bailiffs
+			  					   
+(43200)",33.33,37.29,50.0,#note_43_4,Sheriffs and bailiffs,43200,Public administration 
+"Correctional service officers
+			  					   
+(43201)",28.0,35.6,47.18,#note_44_4,Correctional service officers,43201,Public administration 
+"By-law enforcement and other regulatory officers 
+			  					   
+(43202)",20.61,40.12,57.46,#note_45_4,By-law enforcement and other regulatory officers,43202,Public administration 
+"Border services, customs, and immigration officers 
+			  					   
+(43203)",26.0,36.9,44.92,#note_46_4,"Border services, customs, and immigration officers",43203,Public administration 
+"Operations Members of the Canadian Armed Forces
+			  					   
+(43204)",20.99,26.94,34.52,#note_47_4,Operations Members of the Canadian Armed Forces,43204,Public administration 
+"Home child care providers
+			  					   
+(44100)",15.0,18.0,22.6,#note_48_4,Home child care providers,44100,Health care and social assistance 
+"Home support workers, caregivers and related occupations 
+			  					   
+(44101)",16.0,19.0,25.0,#note_49_4,"Home support workers, caregivers and related occupations",44101,Health care and social assistance 
+"Primary combat members of the Canadian Armed Forces
+			  					   
+(44200)",25.64,35.94,44.76,#note_50_4,Primary combat members of the Canadian Armed Forces,44200,Public administration 
+"Student monitors, crossing guards and related occupations
+			  					   
+(45100)",17.31,23.0,33.17,#note_51_4,"Student monitors, crossing guards and related occupations",45100,Public administration 
+"Library, archive, museum and art gallery managers
+			  					   
+(50010)",21.63,49.45,62.68,#note_0_5,"Library, archive, museum and art gallery managers",50010,Public administration 
+"Managers - publishing, motion pictures, broadcasting and performing arts
+			  					   
+(50011)",30.58,41.96,75.65,#note_1_5,"Managers - publishing, motion pictures, broadcasting and performing arts",50011,"Information, culture and recreation "
+"Recreation, sports and fitness program and service directors
+			  					   
+(50012)",20.51,36.92,42.56,#note_2_5,"Recreation, sports and fitness program and service directors",50012,"Information, culture and recreation "
+"Librarians
+			  					   
+(51100)",18.5,43.66,54.09,#note_3_5,Librarians,51100,Public administration 
+"Conservators and curators
+			  					   
+(51101)",,41.45,,#note_4_5,Conservators and curators,51101,"Information, culture and recreation "
+"Archivists
+			  					   
+(51102)",,37.39,,#note_5_5,Archivists,51102,"Information, culture and recreation "
+"Editors
+			  					   
+(51110)",15.0,30.95,44.84,#note_6_5,Editors,51110,"Information, culture and recreation "
+"Authors and writers (except technical)
+			  					   
+(51111)",20.0,28.85,44.1,#note_7_5,Authors and writers (except technical),51111,"Information, culture and recreation "
+"Technical writers
+			  					   
+(51112)",24.43,38.05,59.14,#note_8_5,Technical writers,51112,"Professional, scientific and technical services "
+"Journalists
+			  					   
+(51113)",15.0,30.66,49.82,#note_9_5,Journalists,51113,"Information, culture and recreation "
+"Translators, terminologists and interpreters
+			  					   
+(51114)",19.0,38.46,48.08,#note_10_5,"Translators, terminologists and interpreters",51114,"Professional, scientific and technical services "
+"Producers, directors, choreographers and related occupations
+			  					   
+(51120)",24.36,36.0,46.63,#note_11_5,"Producers, directors, choreographers and related occupations",51120,"Information, culture and recreation "
+"Conductors, composers and arrangers
+			  					   
+(51121)",,32867.0,,#note_12_5,"Conductors, composers and arrangers",51121,"Information, culture and recreation "
+"Musicians and singers
+			  					   
+(51122)",32867.0,32867.0,82000.0,#note_13_5,Musicians and singers,51122,"Information, culture and recreation "
+"Library and public archive technicians
+			  					   
+(52100)",16.0,26.65,81.53,#note_14_5,Library and public archive technicians,52100,Public administration 
+"Film and video camera operators
+			  					   
+(52110)",16.38,29.07,60.0,#note_15_5,Film and video camera operators,52110,"Information, culture and recreation "
+"Graphic arts technicians
+			  					   
+(52111)",15.0,31.97,71.32,#note_16_5,Graphic arts technicians,52111,Manufacturing 
+"Broadcast technicians
+			  					   
+(52112)",,39.23,,#note_17_5,Broadcast technicians,52112,"Information, culture and recreation "
+"Audio and video recording technicians
+			  					   
+(52113)",18.0,28.0,38.0,#note_18_5,Audio and video recording technicians,52113,"Information, culture and recreation "
+"Announcers and other broadcasters
+			  					   
+(52114)",19.23,30.26,75.92,#note_19_5,Announcers and other broadcasters,52114,"Information, culture and recreation "
+"Other technical and coordinating occupations in motion pictures, broadcasting and the performing arts
+			  					   
+(52119)",19.0,29.98,38.0,#note_20_5,"Other technical and coordinating occupations in motion pictures, broadcasting and the performing arts",52119,"Information, culture and recreation "
+"Graphic designers and illustrators
+			  					   
+(52120)",20.0,28.0,54.05,#note_21_5,Graphic designers and illustrators,52120,"Information, culture and recreation "
+"Interior designers and interior decorators
+			  					   
+(52121)",18.25,27.88,51.28,#note_22_5,Interior designers and interior decorators,52121,"Professional, scientific and technical services "
+"Registrars, restorers, interpreters and other occupations related to museum and art galleries
+			  					   
+(53100)",16.05,21.62,30.72,#note_23_5,"Registrars, restorers, interpreters and other occupations related to museum and art galleries",53100,"Information, culture and recreation "
+"Photographers
+			  					   
+(53110)",19.0,20.0,23.0,#note_24_5,Photographers,53110,"Information, culture and recreation "
+"Motion pictures, broadcasting, photography and performing arts assistants and operators
+			  					   
+(53111)",16.0,23.78,35.71,#note_25_5,"Motion pictures, broadcasting, photography and performing arts assistants and operators",53111,"Information, culture and recreation "
+"Dancers
+			  					   
+(53120)",22.0,30.13,46.0,#note_26_5,Dancers,53120,"Information, culture and recreation "
+"Painters, sculptors and other visual artists
+			  					   
+(53122)",18.0,29.41,45.0,#note_27_5,"Painters, sculptors and other visual artists",53122,"Information, culture and recreation "
+"Theatre, fashion, exhibit and other creative designers
+			  					   
+(53123)",15.0,23.57,41.6,#note_28_5,"Theatre, fashion, exhibit and other creative designers",53123,"Information, culture and recreation "
+"Artisans and craftspersons
+			  					   
+(53124)",15.0,19.0,28.0,#note_29_5,Artisans and craftspersons,53124,Goods-producing sector
+"Athletes
+			  					   
+(53200)",16.78,24.77,50.35,#note_30_5,Athletes,53200,"Information, culture and recreation "
+"Coaches
+			  					   
+(53201)",15.0,23.08,43.27,#note_31_5,Coaches,53201,"Information, culture and recreation "
+"Program leaders and instructors in recreation, sport and fitness
+			  					   
+(54100)",15.15,19.23,32.0,#note_32_5,"Program leaders and instructors in recreation, sport and fitness",54100,Educational services 
+"Corporate sales managers
+			  					   
+(60010)",38.46,54.52,91.35,#note_0_6,Corporate sales managers,60010,"Professional, scientific and technical services "
+"Retail and wholesale trade managers
+			  					   
+(60020)",22.5,37.48,76.92,#note_1_6,Retail and wholesale trade managers,60020,Wholesale and retail trade 
+"Restaurant and food service managers
+			  					   
+(60030)",17.0,26.44,45.67,#note_2_6,Restaurant and food service managers,60030,Accommodation and food services 
+"Accommodation service managers
+			  					   
+(60031)",15.0,34.67,72.12,#note_3_6,Accommodation service managers,60031,Accommodation and food services 
+"Managers in customer and personal services
+			  					   
+(60040)",19.71,37.02,51.44,#note_4_6,Managers in customer and personal services,60040,Other services (except public administration) 
+"Retail sales supervisors
+			  					   
+(62010)",16.0,21.0,40.87,#note_5_6,Retail sales supervisors,62010,Wholesale and retail trade 
+"Food service supervisors
+			  					   
+(62020)",15.0,18.0,23.0,#note_6_6,Food service supervisors,62020,Accommodation and food services 
+"Executive housekeepers
+			  					   
+(62021)",17.0,24.67,29.81,#note_7_6,Executive housekeepers,62021,Accommodation and food services 
+"Accommodation, travel, tourism and related services supervisors
+			  					   
+(62022)",19.0,24.0,42.69,#note_8_6,"Accommodation, travel, tourism and related services supervisors",62022,Accommodation and food services 
+"Customer and information services supervisors
+			  					   
+(62023)",21.0,33.33,57.69,#note_9_6,Customer and information services supervisors,62023,"Business, building and other support services "
+"Cleaning supervisors
+			  					   
+(62024)",18.0,25.0,33.65,#note_10_6,Cleaning supervisors,62024,"Business, building and other support services "
+"Other services supervisors
+			  					   
+(62029)",17.0,25.0,45.01,#note_11_6,Other services supervisors,62029,"Business, building and other support services "
+"Technical sales specialists - wholesale trade
+			  					   
+(62100)",20.5,36.06,57.69,#note_12_6,Technical sales specialists - wholesale trade,62100,Wholesale and retail trade 
+"Retail and wholesale buyers
+			  					   
+(62101)",16.0,28.85,41.03,#note_13_6,Retail and wholesale buyers,62101,Wholesale and retail trade 
+"Chefs
+			  					   
+(62200)",15.0,19.0,24.62,#note_14_6,Chefs,62200,Accommodation and food services 
+"Funeral directors and embalmers
+			  					   
+(62201)",19.5,26.81,35.38,#note_15_6,Funeral directors and embalmers,62201,Other services (except public administration) 
+"Insurance agents and brokers
+			  					   
+(63100)",22.0,32.21,50.48,#note_16_6,Insurance agents and brokers,63100,"Finance, insurance, real estate, rental and leasing "
+"Real estate agents and salespersons
+			  					   
+(63101)",32867.0,46400.0,138000.0,#note_17_6,Real estate agents and salespersons,63101,"Finance, insurance, real estate, rental and leasing "
+"Financial sales representatives
+			  					   
+(63102)",20.0,27.3,55.29,#note_18_6,Financial sales representatives,63102,"Finance, insurance, real estate, rental and leasing "
+"Cooks
+			  					   
+(63200)",15.0,17.0,21.63,#note_19_6,Cooks,63200,Accommodation and food services 
+"Butchers - retail and wholesale
+			  					   
+(63201)",15.9,21.0,27.38,#note_20_6,Butchers - retail and wholesale,63201,Wholesale and retail trade 
+"Bakers
+			  					   
+(63202)",15.0,18.0,25.0,#note_21_6,Bakers,63202,Accommodation and food services 
+"Hairstylists and barbers
+			  					   
+(63210)",15.0,18.03,30.0,#note_22_6,Hairstylists and barbers,63210,Services-producing sector
+"Estheticians, electrologists and related occupations
+			  					   
+(63211)",15.0,19.0,35.0,#note_23_6,"Estheticians, electrologists and related occupations",63211,Services-producing sector
+"Upholsterers
+			  					   
+(63221)",,17.79,,#note_24_6,Upholsterers,63221,Manufacturing 
+"Retail salespersons and visual merchandisers
+			  					   
+(64100)",15.0,16.0,26.92,#note_25_6,Retail salespersons and visual merchandisers,64100,Wholesale and retail trade 
+"Sales and account representatives - wholesale trade (non-technical)
+			  					   
+(64101)",19.42,35.0,59.13,#note_26_6,Sales and account representatives - wholesale trade (non-technical),64101,Wholesale and retail trade 
+"Tailors, dressmakers, furriers and milliners
+			  					   
+(64200)",17.25,18.25,20.0,#note_27_6,"Tailors, dressmakers, furriers and milliners",64200,Manufacturing 
+"Maîtres d'hôtel and hosts/hostesses
+			  					   
+(64300)",15.0,15.0,20.0,#note_28_6,Maîtres d'hôtel and hosts/hostesses,64300,Accommodation and food services 
+"Bartenders
+			  					   
+(64301)",15.0,17.5,23.0,#note_29_6,Bartenders,64301,Accommodation and food services 
+"Travel counsellors
+			  					   
+(64310)",15.0,24.14,43.99,#note_30_6,Travel counsellors,64310,Wholesale and retail trade 
+"Pursers and flight attendants
+			  					   
+(64311)",24.0,34.62,60.0,#note_31_6,Pursers and flight attendants,64311,Transportation and warehousing 
+"Airline ticket and service agents
+			  					   
+(64312)",15.0,19.43,29.96,#note_32_6,Airline ticket and service agents,64312,Transportation and warehousing 
+"Ground and water transport ticket agents, cargo service representatives and related clerks
+			  					   
+(64313)",15.0,19.25,27.29,#note_33_6,"Ground and water transport ticket agents, cargo service representatives and related clerks",64313,Transportation and warehousing 
+"Hotel front desk clerks
+			  					   
+(64314)",15.0,17.0,19.23,#note_34_6,Hotel front desk clerks,64314,Accommodation and food services 
+"Tour and travel guides
+			  					   
+(64320)",15.0,18.0,23.75,#note_35_6,Tour and travel guides,64320,Educational services 
+"Casino workers
+			  					   
+(64321)",15.0,19.0,29.0,#note_36_6,Casino workers,64321,Accommodation and food services 
+"Outdoor sport and recreational guides
+			  					   
+(64322)",15.0,18.5,25.0,#note_37_6,Outdoor sport and recreational guides,64322,"Information, culture and recreation "
+"Customer services representatives - financial institutions
+			  					   
+(64400)",16.25,20.0,26.0,#note_38_6,Customer services representatives - financial institutions,64400,"Finance, insurance, real estate, rental and leasing "
+"Postal services representatives
+			  					   
+(64401)",18.0,21.0,29.44,#note_39_6,Postal services representatives,64401,Transportation and warehousing 
+"Other customer and information services representatives
+			  					   
+(64409)",15.0,21.39,33.14,#note_40_6,Other customer and information services representatives,64409,"Professional, scientific and technical services "
+"Security guards and related security service occupations
+			  					   
+(64410)",15.0,18.82,27.0,#note_41_6,Security guards and related security service occupations,64410,"Business, building and other support services "
+"Cashiers
+			  					   
+(65100)",15.0,15.0,18.2,#note_42_6,Cashiers,65100,Wholesale and retail trade 
+"Service station attendants
+			  					   
+(65101)",15.0,15.0,17.0,#note_43_6,Service station attendants,65101,Services-producing sector
+"Store shelf stockers, clerks and order fillers
+			  					   
+(65102)",15.0,16.0,24.0,#note_44_6,"Store shelf stockers, clerks and order fillers",65102,Wholesale and retail trade 
+"Other sales related occupations
+			  					   
+(65109)",15.0,15.55,32.88,#note_45_6,Other sales related occupations,65109,Wholesale and retail trade 
+"Food and beverage servers
+			  					   
+(65200)",15.0,17.0,30.0,#note_46_6,Food and beverage servers,65200,Accommodation and food services 
+"Food counter attendants, kitchen helpers and related support occupations
+			  					   
+(65201)",15.0,15.5,19.5,#note_47_6,"Food counter attendants, kitchen helpers and related support occupations",65201,Accommodation and food services 
+"Meat cutters and fishmongers – retail and wholesale
+			  					   
+(65202)",15.5,20.25,28.0,#note_48_6,Meat cutters and fishmongers – retail and wholesale,65202,Wholesale and retail trade 
+"Support occupations in accommodation, travel and facilities set-up services
+			  					   
+(65210)",15.0,17.0,23.77,#note_49_6,"Support occupations in accommodation, travel and facilities set-up services",65210,Accommodation and food services 
+"Operators and attendants in amusement, recreation and sport
+			  					   
+(65211)",15.0,16.0,27.0,#note_50_6,"Operators and attendants in amusement, recreation and sport",65211,"Information, culture and recreation "
+"Pet groomers and animal care workers
+			  					   
+(65220)",15.0,17.0,37.88,#note_51_6,Pet groomers and animal care workers,65220,Services-producing sector
+"Other support occupations in personal services
+			  					   
+(65229)",,39600.0,,#note_52_6,Other support occupations in personal services,65229,Other services (except public administration) 
+"Light duty cleaners
+			  					   
+(65310)",15.0,18.0,22.0,#note_53_6,Light duty cleaners,65310,"Business, building and other support services "
+"Specialized cleaners
+			  					   
+(65311)",15.0,20.0,38.0,#note_54_6,Specialized cleaners,65311,Services-producing sector
+"Janitors, caretakers and heavy-duty cleaners
+			  					   
+(65312)",15.0,21.0,38.19,#note_55_6,"Janitors, caretakers and heavy-duty cleaners",65312,Services-producing sector
+"Dry cleaning, laundry and related occupations
+			  					   
+(65320)",15.0,16.5,22.0,#note_56_6,"Dry cleaning, laundry and related occupations",65320,Services-producing sector
+"Other service support occupations
+			  					   
+(65329)",15.0,16.0,19.64,#note_57_6,Other service support occupations,65329,Other services (except public administration) 
+"Construction managers
+			  					   
+(70010)",28.85,48.84,78.0,#note_0_7,Construction managers,70010,Construction 
+"Home building and renovation managers
+			  					   
+(70011)",32867.0,60400.0,121000.0,#note_1_7,Home building and renovation managers,70011,Construction 
+"Facility operation and maintenance managers
+			  					   
+(70012)",28.85,42.56,62.5,#note_2_7,Facility operation and maintenance managers,70012,"Business, building and other support services "
+"Managers in transportation
+			  					   
+(70020)",36.35,41.27,62.5,#note_3_7,Managers in transportation,70020,Transportation and warehousing 
+"Postal and courier services managers
+			  					   
+(70021)",17.17,27.99,53.18,#note_4_7,Postal and courier services managers,70021,Transportation and warehousing 
+"Contractors and supervisors, machining, metal forming, shaping and erecting trades and related occupations
+			  					   
+(72010)",25.7,44.0,54.0,#note_5_7,"Contractors and supervisors, machining, metal forming, shaping and erecting trades and related occupations",72010,Construction 
+"Contractors and supervisors, electrical trades and telecommunications occupations
+			  					   
+(72011)",28.0,40.5,55.0,#note_6_7,"Contractors and supervisors, electrical trades and telecommunications occupations",72011,Construction 
+"Contractors and supervisors, pipefitting trades
+			  					   
+(72012)",30.0,45.0,53.2,#note_7_7,"Contractors and supervisors, pipefitting trades",72012,Construction 
+"Contractors and supervisors, carpentry trades
+			  					   
+(72013)",28.0,36.06,51.0,#note_8_7,"Contractors and supervisors, carpentry trades",72013,Construction 
+"Contractors and supervisors, other construction trades, installers, repairers and servicers
+			  					   
+(72014)",29.0,36.0,51.2,#note_9_7,"Contractors and supervisors, other construction trades, installers, repairers and servicers",72014,Construction 
+"Contractors and supervisors, mechanic trades
+			  					   
+(72020)",26.54,48.0,75.0,#note_10_7,"Contractors and supervisors, mechanic trades",72020,Construction 
+"Contractors and supervisors, heavy equipment operator crews
+			  					   
+(72021)",29.0,39.0,53.43,#note_11_7,"Contractors and supervisors, heavy equipment operator crews",72021,Construction 
+"Supervisors, printing and related occupations
+			  					   
+(72022)",,31.98,,#note_12_7,"Supervisors, printing and related occupations",72022,Manufacturing 
+"Supervisors, railway transport operations
+			  					   
+(72023)",,40.2,,#note_13_7,"Supervisors, railway transport operations",72023,Transportation and warehousing 
+"Supervisors, motor transport and other ground transit operators
+			  					   
+(72024)",20.0,32.05,57.69,#note_14_7,"Supervisors, motor transport and other ground transit operators",72024,Transportation and warehousing 
+"Supervisors, mail and message distribution occupations
+			  					   
+(72025)",16.75,31.7,36.0,#note_15_7,"Supervisors, mail and message distribution occupations",72025,"Business, building and other support services "
+"Machinists and machining and tooling inspectors
+			  					   
+(72100)",24.04,37.0,51.44,#note_16_7,Machinists and machining and tooling inspectors,72100,Manufacturing 
+"Tool and die makers
+			  					   
+(72101)",,27.23,,#note_17_7,Tool and die makers,72101,Manufacturing 
+"Sheet metal workers
+			  					   
+(72102)",19.0,34.0,39.0,#note_18_7,Sheet metal workers,72102,Construction 
+"Boilermakers
+			  					   
+(72103)",43.88,44.81,49.75,#note_19_7,Boilermakers,72103,Manufacturing 
+"Structural metal and platework fabricators and fitters
+			  					   
+(72104)",20.0,30.5,42.0,#note_20_7,Structural metal and platework fabricators and fitters,72104,Manufacturing 
+"Ironworkers
+			  					   
+(72105)",25.0,38.0,43.65,#note_21_7,Ironworkers,72105,Construction 
+"Welders and related machine operators
+			  					   
+(72106)",22.97,36.0,46.0,#note_22_7,Welders and related machine operators,72106,Manufacturing 
+"Electricians (except industrial and power system)
+			  					   
+(72200)",20.0,36.0,47.0,#note_23_7,Electricians (except industrial and power system),72200,Construction 
+"Industrial electricians
+			  					   
+(72201)",32.0,44.9,62.0,#note_24_7,Industrial electricians,72201,Construction 
+"Power system electricians
+			  					   
+(72202)",28.0,40.0,57.73,#note_25_7,Power system electricians,72202,Utilities 
+"Electrical power line and cable workers
+			  					   
+(72203)",35.5,52.88,72.12,#note_26_7,Electrical power line and cable workers,72203,Utilities 
+"Telecommunications line and cable installers and repairers
+			  					   
+(72204)",22.0,32.0,41.0,#note_27_7,Telecommunications line and cable installers and repairers,72204,"Information, culture and recreation "
+"Telecommunications equipment installation and cable television service technicians 
+			  					   
+(72205)",24.0,36.75,43.96,#note_28_7,Telecommunications equipment installation and cable television service technicians,72205,"Information, culture and recreation "
+"Plumbers
+			  					   
+(72300)",20.0,35.0,44.0,#note_29_7,Plumbers,72300,Construction 
+"Steamfitters, pipefitters and sprinkler system installers
+			  					   
+(72301)",29.48,42.0,48.5,#note_30_7,"Steamfitters, pipefitters and sprinkler system installers",72301,Construction 
+"Gas fitters
+			  					   
+(72302)",31.4,38.0,45.0,#note_31_7,Gas fitters,72302,Utilities 
+"Carpenters
+			  					   
+(72310)",19.0,28.0,39.03,#note_32_7,Carpenters,72310,Construction 
+"Cabinetmakers
+			  					   
+(72311)",18.0,23.0,30.0,#note_33_7,Cabinetmakers,72311,Manufacturing 
+"Bricklayers
+			  					   
+(72320)",28.0,39.77,46.83,#note_34_7,Bricklayers,72320,Construction 
+"Insulators
+			  					   
+(72321)",23.4,38.0,42.93,#note_35_7,Insulators,72321,Construction 
+"Construction millwrights and industrial mechanics
+			  					   
+(72400)",26.0,37.7,60.0,#note_36_7,Construction millwrights and industrial mechanics,72400,Construction 
+"Heavy-duty equipment mechanics
+			  					   
+(72401)",22.96,40.0,55.0,#note_37_7,Heavy-duty equipment mechanics,72401,Construction 
+"Heating, refrigeration and air conditioning mechanics
+			  					   
+(72402)",21.63,35.0,52.0,#note_38_7,"Heating, refrigeration and air conditioning mechanics",72402,Construction 
+"Railway carmen/women
+			  					   
+(72403)",30.75,40.85,56.57,#note_39_7,Railway carmen/women,72403,Transportation and warehousing 
+"Aircraft mechanics and aircraft inspectors
+			  					   
+(72404)",20.0,38.95,52.5,#note_40_7,Aircraft mechanics and aircraft inspectors,72404,Manufacturing 
+"Elevator constructors and mechanics
+			  					   
+(72406)",29.26,53.5,64.35,#note_41_7,Elevator constructors and mechanics,72406,Construction 
+"Automotive service technicians, truck and bus mechanics and mechanical repairers
+			  					   
+(72410)",20.0,34.0,48.08,#note_42_7,"Automotive service technicians, truck and bus mechanics and mechanical repairers",72410,Wholesale and retail trade 
+"Auto body collision, refinishing and glass technicians and damage repair estimators
+			  					   
+(72411)",17.0,26.0,45.0,#note_43_7,"Auto body collision, refinishing and glass technicians and damage repair estimators",72411,Services-producing sector
+"Oil and solid fuel heating mechanics
+			  					   
+(72420)",19.38,28.0,40.0,#note_44_7,Oil and solid fuel heating mechanics,72420,Construction 
+"Appliance servicers and repairers
+			  					   
+(72421)",18.0,25.0,36.0,#note_45_7,Appliance servicers and repairers,72421,Services-producing sector
+"Electrical mechanics
+			  					   
+(72422)",26.06,47.78,62.26,#note_46_7,Electrical mechanics,72422,Utilities 
+"Motorcycle, all-terrain vehicle and other related mechanics
+			  					   
+(72423)",15.0,27.16,39.38,#note_47_7,"Motorcycle, all-terrain vehicle and other related mechanics",72423,Services-producing sector
+"Other small engine and small equipment repairers
+			  					   
+(72429)",,27.27,,#note_48_7,Other small engine and small equipment repairers,72429,Services-producing sector
+"Crane operators
+			  					   
+(72500)",27.0,42.75,52.88,#note_49_7,Crane operators,72500,Construction 
+"Air pilots, flight engineers and flying instructors
+			  					   
+(72600)",21.87,44.54,81.67,#note_50_7,"Air pilots, flight engineers and flying instructors",72600,Transportation and warehousing 
+"Air traffic controllers and related occupations
+			  					   
+(72601)",24.73,69.03,119.52,#note_51_7,Air traffic controllers and related occupations,72601,Transportation and warehousing 
+"Railway traffic controllers and marine traffic regulators
+			  					   
+(72604)",27.58,41.37,56.94,#note_52_7,Railway traffic controllers and marine traffic regulators,72604,Transportation and warehousing 
+"Other technical trades and related occupations
+			  					   
+(72999)",20.0,33.0,43.75,#note_53_7,Other technical trades and related occupations,72999,Services-producing sector
+"Concrete finishers
+			  					   
+(73100)",23.29,30.0,37.5,#note_54_7,Concrete finishers,73100,Construction 
+"Tilesetters
+			  					   
+(73101)",22.0,27.5,35.0,#note_55_7,Tilesetters,73101,Construction 
+"Plasterers, drywall installers and finishers and lathers
+			  					   
+(73102)",20.0,27.0,35.0,#note_56_7,"Plasterers, drywall installers and finishers and lathers",73102,Construction 
+"Roofers and shinglers
+			  					   
+(73110)",20.0,26.5,36.0,#note_57_7,Roofers and shinglers,73110,Construction 
+"Glaziers
+			  					   
+(73111)",20.0,28.0,36.0,#note_58_7,Glaziers,73111,Construction 
+"Painters and decorators (except interior decorators)
+			  					   
+(73112)",18.0,25.0,30.0,#note_59_7,Painters and decorators (except interior decorators),73112,Construction 
+"Floor covering installers
+			  					   
+(73113)",19.2,25.0,32.0,#note_60_7,Floor covering installers,73113,Construction 
+"Residential and commercial installers and servicers
+			  					   
+(73200)",20.0,26.44,43.21,#note_61_7,Residential and commercial installers and servicers,73200,Construction 
+"General building maintenance workers and building superintendents 
+			  					   
+(73201)",16.0,21.15,33.65,#note_62_7,General building maintenance workers and building superintendents,73201,Construction 
+"Pest controllers and fumigators
+			  					   
+(73202)",18.0,21.71,30.14,#note_63_7,Pest controllers and fumigators,73202,Services-producing sector
+"Other repairers and servicers
+			  					   
+(73209)",16.5,19.0,40.0,#note_64_7,Other repairers and servicers,73209,Services-producing sector
+"Transport truck drivers
+			  					   
+(73300)",18.5,28.0,38.0,#note_65_7,Transport truck drivers,73300,Transportation and warehousing 
+"Bus drivers, subway operators and other transit operators
+			  					   
+(73301)",16.09,24.0,36.09,#note_66_7,"Bus drivers, subway operators and other transit operators",73301,Transportation and warehousing 
+"Railway and yard locomotive engineers
+			  					   
+(73310)",35.71,43.96,66.11,#note_67_7,Railway and yard locomotive engineers,73310,Transportation and warehousing 
+"Railway conductors and brakemen/women
+			  					   
+(73311)",23.65,34.02,46.3,#note_68_7,Railway conductors and brakemen/women,73311,Transportation and warehousing 
+"Heavy equipment operators
+			  					   
+(73400)",23.0,32.0,40.0,#note_69_7,Heavy equipment operators,73400,Construction 
+"Printing press operators
+			  					   
+(73401)",18.0,27.0,40.29,#note_70_7,Printing press operators,73401,Manufacturing 
+"Drillers and blasters - surface mining, quarrying and construction
+			  					   
+(73402)",25.0,35.0,44.5,#note_71_7,"Drillers and blasters - surface mining, quarrying and construction",73402,"Forestry, fishing, mining, quarrying, oil and gas "
+"Mail and parcel sorters and related occupations
+			  					   
+(74100)",16.9,23.0,29.0,#note_72_7,Mail and parcel sorters and related occupations,74100,Transportation and warehousing 
+"Letter carriers
+			  					   
+(74101)",21.63,28.13,39.75,#note_73_7,Letter carriers,74101,Transportation and warehousing 
+"Couriers and messengers
+			  					   
+(74102)",17.0,22.0,31.58,#note_74_7,Couriers and messengers,74102,Transportation and warehousing 
+"Railway yard and track maintenance workers
+			  					   
+(74200)",22.0,27.5,38.0,#note_75_7,Railway yard and track maintenance workers,74200,Transportation and warehousing 
+"Air transport ramp attendants
+			  					   
+(74202)",15.0,20.0,27.88,#note_76_7,Air transport ramp attendants,74202,Transportation and warehousing 
+"Automotive and heavy truck and equipment parts installers and servicers 
+			  					   
+(74203)",16.0,21.0,43.07,#note_77_7,Automotive and heavy truck and equipment parts installers and servicers,74203,Wholesale and retail trade 
+"Utility maintenance workers
+			  					   
+(74204)",23.08,33.54,48.0,#note_78_7,Utility maintenance workers,74204,Utilities 
+"Public works maintenance equipment operators and related workers
+			  					   
+(74205)",24.0,31.06,38.46,#note_79_7,Public works maintenance equipment operators and related workers,74205,Public administration 
+"Longshore workers
+			  					   
+(75100)",16.0,17.93,24.58,#note_80_7,Longshore workers,75100,Transportation and warehousing 
+"Material handlers
+			  					   
+(75101)",16.0,21.0,30.0,#note_81_7,Material handlers,75101,Transportation and warehousing 
+"Construction trades helpers and labourers
+			  					   
+(75110)",17.0,22.0,35.0,#note_82_7,Construction trades helpers and labourers,75110,Construction 
+"Other trades helpers and labourers
+			  					   
+(75119)",16.5,22.0,30.0,#note_83_7,Other trades helpers and labourers,75119,Construction 
+"Taxi and limousine drivers and chauffeurs
+			  					   
+(75200)",15.0,19.0,28.0,#note_84_7,Taxi and limousine drivers and chauffeurs,75200,Transportation and warehousing 
+"Delivery service drivers and door-to-door distributors
+			  					   
+(75201)",15.0,19.0,34.0,#note_85_7,Delivery service drivers and door-to-door distributors,75201,Transportation and warehousing 
+"Railway and motor transport labourers
+			  					   
+(75211)",16.5,22.0,29.5,#note_86_7,Railway and motor transport labourers,75211,Transportation and warehousing 
+"Public works and maintenance labourers
+			  					   
+(75212)",20.66,29.0,33.0,#note_87_7,Public works and maintenance labourers,75212,Public administration 
+"Managers in natural resources production and fishing
+			  					   
+(80010)",38.1,65.38,115.38,#note_0_8,Managers in natural resources production and fishing,80010,Agriculture 
+"Managers in agriculture
+			  					   
+(80020)",20.0,28.85,32.31,#note_1_8,Managers in agriculture,80020,Agriculture 
+"Supervisors, mining and quarrying
+			  					   
+(82020)",28.0,47.62,58.0,#note_2_8,"Supervisors, mining and quarrying",82020,"Forestry, fishing, mining, quarrying, oil and gas "
+"Contractors and supervisors, oil and gas drilling and services
+			  					   
+(82021)",24.95,48.0,72.12,#note_3_8,"Contractors and supervisors, oil and gas drilling and services",82021,Utilities 
+"Agricultural service contractors and farm supervisors
+			  					   
+(82030)",15.0,22.0,62.0,#note_4_8,Agricultural service contractors and farm supervisors,82030,Agriculture 
+"Contractors and supervisors, landscaping, grounds maintenance and horticulture services
+			  					   
+(82031)",19.75,27.0,50.0,#note_5_8,"Contractors and supervisors, landscaping, grounds maintenance and horticulture services",82031,Construction 
+"Underground production and development miners
+			  					   
+(83100)",32.0,41.0,65.0,#note_6_8,Underground production and development miners,83100,"Forestry, fishing, mining, quarrying, oil and gas "
+"Oil and gas well drillers, servicers, testers and related workers
+			  					   
+(83101)",24.0,40.0,65.38,#note_7_8,"Oil and gas well drillers, servicers, testers and related workers",83101,"Forestry, fishing, mining, quarrying, oil and gas "
+"Logging machinery operators
+			  					   
+(83110)",30.0,35.0,40.0,#note_8_8,Logging machinery operators,83110,"Forestry, fishing, mining, quarrying, oil and gas "
+"Underground mine service and support workers 
+			  					   
+(84100)",,40.6,,#note_9_8,Underground mine service and support workers,84100,"Forestry, fishing, mining, quarrying, oil and gas "
+"Oil and gas well drilling and related workers and services operators 
+			  					   
+(84101)",17.5,31.0,50.0,#note_10_8,Oil and gas well drilling and related workers and services operators,84101,"Forestry, fishing, mining, quarrying, oil and gas "
+"Chain saw and skidder operators
+			  					   
+(84110)",22.0,28.0,34.0,#note_11_8,Chain saw and skidder operators,84110,"Forestry, fishing, mining, quarrying, oil and gas "
+"Silviculture and forestry workers
+			  					   
+(84111)",18.5,21.83,27.0,#note_12_8,Silviculture and forestry workers,84111,"Forestry, fishing, mining, quarrying, oil and gas "
+"Specialized livestock workers and farm machinery operators
+			  					   
+(84120)",16.0,22.0,28.25,#note_13_8,Specialized livestock workers and farm machinery operators,84120,Agriculture 
+"Livestock labourers
+			  					   
+(85100)",15.0,21.0,30.0,#note_14_8,Livestock labourers,85100,Agriculture 
+"Harvesting labourers
+			  					   
+(85101)",15.0,17.95,25.0,#note_15_8,Harvesting labourers,85101,Agriculture 
+"Nursery and greenhouse labourers
+			  					   
+(85103)",16.0,18.5,25.0,#note_16_8,Nursery and greenhouse labourers,85103,Agriculture 
+"Mine labourers
+			  					   
+(85110)",21.0,26.39,35.5,#note_17_8,Mine labourers,85110,"Forestry, fishing, mining, quarrying, oil and gas "
+"Oil and gas drilling, servicing and related labourers
+			  					   
+(85111)",20.83,28.0,35.0,#note_18_8,"Oil and gas drilling, servicing and related labourers",85111,"Forestry, fishing, mining, quarrying, oil and gas "
+"Logging and forestry labourers
+			  					   
+(85120)",18.0,24.0,35.0,#note_19_8,Logging and forestry labourers,85120,"Forestry, fishing, mining, quarrying, oil and gas "
+"Landscaping and grounds maintenance labourers
+			  					   
+(85121)",16.0,19.6,26.24,#note_20_8,Landscaping and grounds maintenance labourers,85121,"Business, building and other support services "
+"Manufacturing managers
+			  					   
+(90010)",31.25,50.0,93.75,#note_0_9,Manufacturing managers,90010,Manufacturing 
+"Utilities managers
+			  					   
+(90011)",32.0,56.25,87.18,#note_1_9,Utilities managers,90011,Utilities 
+"Supervisors, mineral and metal processing
+			  					   
+(92010)",30.59,46.63,72.31,#note_2_9,"Supervisors, mineral and metal processing",92010,"Forestry, fishing, mining, quarrying, oil and gas "
+"Supervisors, petroleum, gas and chemical processing and utilities
+			  					   
+(92011)",31.25,52.88,72.12,#note_3_9,"Supervisors, petroleum, gas and chemical processing and utilities",92011,Utilities 
+"Supervisors, food and beverage processing
+			  					   
+(92012)",21.0,26.0,42.44,#note_4_9,"Supervisors, food and beverage processing",92012,Manufacturing 
+"Supervisors, plastic and rubber products manufacturing
+			  					   
+(92013)",,33.2,,#note_5_9,"Supervisors, plastic and rubber products manufacturing",92013,Manufacturing 
+"Supervisors, forest products processing
+			  					   
+(92014)",30.0,40.0,50.0,#note_6_9,"Supervisors, forest products processing",92014,Manufacturing 
+"Supervisors, electronics and electrical products manufacturing
+			  					   
+(92021)",,26.65,,#note_7_9,"Supervisors, electronics and electrical products manufacturing",92021,Manufacturing 
+"Supervisors, other mechanical and metal products manufacturing
+			  					   
+(92023)",27.0,30.0,44.0,#note_8_9,"Supervisors, other mechanical and metal products manufacturing",92023,Manufacturing 
+"Supervisors, other products manufacturing and assembly
+			  					   
+(92024)",,32.3,,#note_9_9,"Supervisors, other products manufacturing and assembly",92024,Manufacturing 
+"Power engineers and power systems operators
+			  					   
+(92100)",32.0,55.0,75.38,#note_10_9,Power engineers and power systems operators,92100,Utilities 
+"Water and waste treatment plant operators
+			  					   
+(92101)",23.27,39.09,58.18,#note_11_9,Water and waste treatment plant operators,92101,Utilities 
+"Central control and process operators, petroleum, gas and chemical processing
+			  					   
+(93101)",27.21,50.0,65.0,#note_12_9,"Central control and process operators, petroleum, gas and chemical processing",93101,Utilities 
+"Machine operators, mineral and metal processing
+			  					   
+(94100)",20.04,42.31,62.84,#note_13_9,"Machine operators, mineral and metal processing",94100,Manufacturing 
+"Glass forming and finishing machine operators and glass cutters
+			  					   
+(94102)",16.5,19.0,24.0,#note_14_9,Glass forming and finishing machine operators and glass cutters,94102,Manufacturing 
+"Concrete, clay and stone forming operators
+			  					   
+(94103)",20.0,26.0,34.0,#note_15_9,"Concrete, clay and stone forming operators",94103,Construction 
+"Inspectors and testers, mineral and metal processing
+			  					   
+(94104)",21.0,28.0,43.87,#note_16_9,"Inspectors and testers, mineral and metal processing",94104,Manufacturing 
+"Metalworking and forging machine operators
+			  					   
+(94105)",18.0,24.0,30.0,#note_17_9,Metalworking and forging machine operators,94105,Manufacturing 
+"Machining tool operators
+			  					   
+(94106)",17.12,27.66,36.45,#note_18_9,Machining tool operators,94106,Manufacturing 
+"Machine operators of other metal products 
+			  					   
+(94107)",17.78,23.13,33.4,#note_19_9,Machine operators of other metal products,94107,Manufacturing 
+"Chemical plant machine operators
+			  					   
+(94110)",20.0,21.0,40.0,#note_20_9,Chemical plant machine operators,94110,Manufacturing 
+"Plastics processing machine operators
+			  					   
+(94111)",16.5,21.0,28.59,#note_21_9,Plastics processing machine operators,94111,Manufacturing 
+"Rubber processing machine operators and related workers
+			  					   
+(94112)",17.0,28.0,30.04,#note_22_9,Rubber processing machine operators and related workers,94112,Manufacturing 
+"Sawmill machine operators
+			  					   
+(94120)",20.0,30.0,35.0,#note_23_9,Sawmill machine operators,94120,Manufacturing 
+"Pulp mill, papermaking and finishing machine operators
+			  					   
+(94121)",40.0,46.0,50.0,#note_24_9,"Pulp mill, papermaking and finishing machine operators",94121,Manufacturing 
+"Lumber graders and other wood processing inspectors and graders
+			  					   
+(94123)",,38.16,,#note_25_9,Lumber graders and other wood processing inspectors and graders,94123,Manufacturing 
+"Woodworking machine operators
+			  					   
+(94124)",15.8,20.5,27.0,#note_26_9,Woodworking machine operators,94124,Manufacturing 
+"Other wood processing machine operators
+			  					   
+(94129)",,35.59,,#note_27_9,Other wood processing machine operators,94129,Manufacturing 
+"Textile fibre and yarn, hide and pelt processing machine operators and workers
+			  					   
+(94130)",16.0,19.33,28.0,#note_28_9,"Textile fibre and yarn, hide and pelt processing machine operators and workers",94130,Manufacturing 
+"Weavers, knitters and other fabric making occupations
+			  					   
+(94131)",,18.16,,#note_29_9,"Weavers, knitters and other fabric making occupations",94131,Manufacturing 
+"Industrial sewing machine operators
+			  					   
+(94132)",16.0,18.0,21.0,#note_30_9,Industrial sewing machine operators,94132,Manufacturing 
+"Inspectors and graders, textile, fabric, fur and leather products manufacturing
+			  					   
+(94133)",15.0,15.97,21.0,#note_31_9,"Inspectors and graders, textile, fabric, fur and leather products manufacturing",94133,Manufacturing 
+"Process control and machine operators, food and beverage processing
+			  					   
+(94140)",17.0,22.0,30.0,#note_32_9,"Process control and machine operators, food and beverage processing",94140,Manufacturing 
+"Industrial butchers and meat cutters, poultry preparers and related workers
+			  					   
+(94141)",18.0,21.0,23.8,#note_33_9,"Industrial butchers and meat cutters, poultry preparers and related workers",94141,Manufacturing 
+"Testers and graders, food and beverage processing
+			  					   
+(94143)",20.0,21.75,29.36,#note_34_9,"Testers and graders, food and beverage processing",94143,Manufacturing 
+"Plateless printing equipment operators
+			  					   
+(94150)",15.0,25.15,31.93,#note_35_9,Plateless printing equipment operators,94150,Manufacturing 
+"Camera, platemaking and other prepress occupations
+			  					   
+(94151)",,29.83,,#note_36_9,"Camera, platemaking and other prepress occupations",94151,Manufacturing 
+"Binding and finishing machine operators
+			  					   
+(94152)",15.0,18.15,24.9,#note_37_9,Binding and finishing machine operators,94152,Manufacturing 
+"Motor vehicle assemblers, inspectors and testers
+			  					   
+(94200)",15.0,23.06,36.5,#note_38_9,"Motor vehicle assemblers, inspectors and testers",94200,Manufacturing 
+"Electronics assemblers, fabricators, inspectors and testers
+			  					   
+(94201)",17.0,21.0,45.64,#note_39_9,"Electronics assemblers, fabricators, inspectors and testers",94201,Manufacturing 
+"Assemblers and inspectors, electrical appliance, apparatus and equipment manufacturing
+			  					   
+(94202)",19.0,21.0,31.0,#note_40_9,"Assemblers and inspectors, electrical appliance, apparatus and equipment manufacturing",94202,Manufacturing 
+"Assemblers, fabricators and inspectors, industrial electrical motors and transformers
+			  					   
+(94203)",,26.16,,#note_41_9,"Assemblers, fabricators and inspectors, industrial electrical motors and transformers",94203,Manufacturing 
+"Mechanical assemblers and inspectors
+			  					   
+(94204)",19.0,27.0,30.0,#note_42_9,Mechanical assemblers and inspectors,94204,Manufacturing 
+"Machine operators and inspectors, electrical apparatus manufacturing
+			  					   
+(94205)",17.5,22.88,35.5,#note_43_9,"Machine operators and inspectors, electrical apparatus manufacturing",94205,Manufacturing 
+"Furniture and fixture assemblers, finishers, refinishers and inspectors
+			  					   
+(94210)",15.0,21.0,33.0,#note_44_9,"Furniture and fixture assemblers, finishers, refinishers and inspectors",94210,Manufacturing 
+"Assemblers and inspectors of other wood products
+			  					   
+(94211)",18.0,20.9,26.0,#note_45_9,Assemblers and inspectors of other wood products,94211,Manufacturing 
+"Plastic products assemblers, finishers and inspectors
+			  					   
+(94212)",16.0,21.0,31.5,#note_46_9,"Plastic products assemblers, finishers and inspectors",94212,Manufacturing 
+"Industrial painters, coaters and metal finishing process operators
+			  					   
+(94213)",18.5,23.25,40.0,#note_47_9,"Industrial painters, coaters and metal finishing process operators",94213,Manufacturing 
+"Other products assemblers, finishers and inspectors
+			  					   
+(94219)",17.0,21.5,29.0,#note_48_9,"Other products assemblers, finishers and inspectors",94219,Manufacturing 
+"Labourers in mineral and metal processing
+			  					   
+(95100)",18.0,24.0,33.32,#note_49_9,Labourers in mineral and metal processing,95100,Manufacturing 
+"Labourers in metal fabrication
+			  					   
+(95101)",18.0,24.0,33.5,#note_50_9,Labourers in metal fabrication,95101,Manufacturing 
+"Labourers in chemical products processing and utilities
+			  					   
+(95102)",19.0,25.0,33.94,#note_51_9,Labourers in chemical products processing and utilities,95102,Utilities 
+"Labourers in wood, pulp and paper processing
+			  					   
+(95103)",17.0,22.0,31.72,#note_52_9,"Labourers in wood, pulp and paper processing",95103,Manufacturing 
+"Labourers in rubber and plastic products manufacturing
+			  					   
+(95104)",16.0,19.96,25.0,#note_53_9,Labourers in rubber and plastic products manufacturing,95104,Manufacturing 
+"Labourers in textile processing and cutting
+			  					   
+(95105)",15.46,19.2,25.59,#note_54_9,Labourers in textile processing and cutting,95105,Manufacturing 
+"Labourers in food and beverage processing
+			  					   
+(95106)",15.0,19.51,23.07,#note_55_9,Labourers in food and beverage processing,95106,Manufacturing 
+"Other labourers in processing, manufacturing and utilities
+			  					   
+(95109)",15.5,19.0,25.0,#note_56_9,"Other labourers in processing, manufacturing and utilities",95109,Utilities 
